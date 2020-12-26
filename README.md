@@ -1,6 +1,6 @@
 # hackbbTOTORIAL PASANG.#
 
-<img src="https://i.ibb.co/WBthhrv/IMG-20200521-100410.jpg"width="300"height="150">
+<img src="https://i.ibb.co/WBthhrv/IMG-20200521-100410.jpg" />
 
 
 
