@@ -40,5 +40,5 @@ python2 hackfbb
 
 [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-green?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCDHPmTQ5rQwj0an9vM-3UHA)
 [![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=instagram)](https://www.instagram.com/mastah_illusion/)
-* Kalo Masih Kurang Paham Silahkan Hubungin Admin WhatsApp👇
+* Kalo Masih Kurang Paham Silahkan Hubungin Admin WhatsApp👉
 [![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/6288213740894?text=Asalamualaikum+bang)
